@@ -7,6 +7,10 @@
     Aplicativo criado no curso de react native da digital innovation one
 </p>
 
+<p align="center">
+    Projeto clonado para estudos, sem alterações em relação ao original, acompanhado aulas e o desenvolvimento do projeto.
+</p>
+
 
 
 ## EndPoints
